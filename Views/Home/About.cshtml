@@ -1,0 +1,37 @@
+@{
+    ViewData["Title"] = L["ab_title"].Value;
+    ViewData["Description"] = L["ab_meta"].Value;
+}
+
+<section class="page-hero compact-hero">
+    <div class="container">
+        <p class="eyebrow">@L["ab_eyebrow"]</p>
+        <h1>@L["ab_h1"]</h1>
+        <p>@L["ab_copy"]</p>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container split story-split">
+        <figure class="story-image media-frame">
+            <img src="/images/about/about.jpg" alt="Sunmed Lodge bahçeli butik otel alanı" onerror="this.style.display='none'" />
+        </figure>
+        <div class="copy-stack">
+            <p class="eyebrow">@L["ab_story_eyebrow"]</p>
+            <h2>@L["ab_story_h2"]</h2>
+            <p>@L["ab_story_p1"]</p>
+            <p>@L["ab_story_p2"]</p>
+        </div>
+    </div>
+</section>
+
+<section class="section amenities-band">
+    <div class="container amenity-grid about-points">
+        <div class="amenity-card"><strong>@L["ab_pt1_title"]</strong><span>@L["ab_pt1_desc"]</span></div>
+        <div class="amenity-card"><strong>@L["ab_pt2_title"]</strong><span>@L["ab_pt2_desc"]</span></div>
+        <div class="amenity-card"><strong>@L["ab_pt3_title"]</strong><span>@L["ab_pt3_desc"]</span></div>
+        <div class="amenity-card"><strong>@L["ab_pt4_title"]</strong><span>@L["ab_pt4_desc"]</span></div>
+        <div class="amenity-card"><strong>@L["ab_pt5_title"]</strong><span>@L["ab_pt5_desc"]</span></div>
+        <div class="amenity-card"><strong>@L["ab_pt6_title"]</strong><span>@L["ab_pt6_desc"]</span></div>
+    </div>
+</section>

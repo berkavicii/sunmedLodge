@@ -1,0 +1,44 @@
+@{
+    ViewData["Title"] = L["ct_title"].Value;
+    ViewData["Description"] = L["ct_meta"].Value;
+}
+
+<section class="page-hero compact-hero">
+    <div class="container">
+        <p class="eyebrow">@L["ct_eyebrow"]</p>
+        <h1>@L["ct_h1"]</h1>
+        <p>@L["ct_copy"]</p>
+    </div>
+</section>
+
+<section class="section contact-section">
+    <div class="container contact-grid">
+        <div class="contact-panel">
+            <p class="eyebrow">Sunmed Lodge</p>
+            <h2>@L["ct_panel_h2"]</h2>
+            <div class="contact-list">
+                <a href="tel:+90XXXXXXXXXX">
+                    <span>@L["ct_phone_label"]</span>
+                    <strong>+90 XXX XXX XX XX</strong>
+                </a>
+                <a href="https://wa.me/90XXXXXXXXXX?text=Merhaba%2C%20Sunmed%20Lodge%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener">
+                    <span>@L["ct_wa_label"]</span>
+                    <strong>@L["ct_wa_action"]</strong>
+                </a>
+                <a href="https://maps.app.goo.gl/GqsjMxA7zf15hrpK8" target="_blank" rel="noopener">
+                    <span>@L["ct_addr_label"]</span>
+                    <strong>Belceğiz Mahallesi, 235. Sokak, Fethiye, Muğla, 48300</strong>
+                </a>
+            </div>
+            <div class="contact-actions">
+                <a class="btn btn-primary" href="https://wa.me/90XXXXXXXXXX?text=Merhaba%2C%20Sunmed%20Lodge%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener">@L["ct_btn_wa"]</a>
+                <a class="btn btn-ghost" href="tel:+90XXXXXXXXXX">@L["ct_btn_call"]</a>
+                <a class="btn btn-light" href="https://maps.app.goo.gl/GqsjMxA7zf15hrpK8" target="_blank" rel="noopener">@L["ct_btn_map"]</a>
+            </div>
+        </div>
+
+        <div class="map-embed-placeholder">
+            <iframe src="https://www.google.com/maps?q=Sunmed%20Lodge%20Belce%C4%9Fiz%20Mahallesi%20235.%20Sokak%20Fethiye%20Mu%C4%9Fla&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Sunmed Lodge Google Maps konumu"></iframe>
+        </div>
+    </div>
+</section>

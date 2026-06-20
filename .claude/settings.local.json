@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-Process -Name \"SunmedLodge\" -ErrorAction SilentlyContinue)",
+      "PowerShell(Stop-Process -Force)"
+    ]
+  }
+}

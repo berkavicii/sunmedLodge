@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\sunmedLodge\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SunmedLodge.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SunmedLodge.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\.gitkeep",
+      "PackagePath": "staticwebassets\\images\\.gitkeep"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\about\\.gitkeep",
+      "PackagePath": "staticwebassets\\images\\about\\.gitkeep"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\about\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\.gitkeep",
+      "PackagePath": "staticwebassets\\images\\gallery\\.gitkeep"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DJI_20260505140858_0010_D.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DJI_20260505140858_0010_D.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DJI_20260505141409_0019_D.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DJI_20260505141409_0019_D.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DJI_20260505141437_0021_D.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DJI_20260505141437_0021_D.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DJI_20260505141614_0030_D.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DJI_20260505141614_0030_D.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC06739.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DSC06739.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC06861.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DSC06861.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07030.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DSC07030.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07034 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DSC07034 (1).jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07049.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DSC07049.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07091.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DSC07091.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07594.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DSC07594.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07631.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DSC07631.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07665.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DSC07665.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07672.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DSC07672.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07690.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\DSC07690.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\hero\\.gitkeep",
+      "PackagePath": "staticwebassets\\images\\hero\\.gitkeep"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\hero\\hero1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero\\hero1.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\hero\\hero2.jpg",
+      "PackagePath": "staticwebassets\\images\\hero\\hero2.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\hero\\hero3.jpg",
+      "PackagePath": "staticwebassets\\images\\hero\\hero3.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\hero\\sunmedlogo-header.png",
+      "PackagePath": "staticwebassets\\images\\hero\\sunmedlogo-header.png"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\hero\\sunmedlogo.png",
+      "PackagePath": "staticwebassets\\images\\hero\\sunmedlogo.png"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\.gitkeep",
+      "PackagePath": "staticwebassets\\images\\rooms\\.gitkeep"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\bungalov1.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\bungalov1.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\bungalov2.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\bungalov2.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\bungalov3.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\bungalov3.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\bungalov4.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\bungalov4.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\bungalov5.avif",
+      "PackagePath": "staticwebassets\\images\\rooms\\bungalov5.avif"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\bungalov6.avif",
+      "PackagePath": "staticwebassets\\images\\rooms\\bungalov6.avif"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\deluxe1.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\deluxe1.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\deluxe2.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\deluxe2.jpg"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\deluxe3.avif",
+      "PackagePath": "staticwebassets\\images\\rooms\\deluxe3.avif"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\deluxe4.avif",
+      "PackagePath": "staticwebassets\\images\\rooms\\deluxe4.avif"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\deluxe5.avif",
+      "PackagePath": "staticwebassets\\images\\rooms\\deluxe5.avif"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\deluxe6.avif",
+      "PackagePath": "staticwebassets\\images\\rooms\\deluxe6.avif"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\sunmedLodge\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SunmedLodge.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SunmedLodge.props",
+      "PackagePath": "build\\SunmedLodge.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SunmedLodge.props",
+      "PackagePath": "buildMultiTargeting\\SunmedLodge.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SunmedLodge.props",
+      "PackagePath": "buildTransitive\\SunmedLodge.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

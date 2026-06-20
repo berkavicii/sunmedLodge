@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+
+  <data name="nav_home" xml:space="preserve"><value>Home</value></data>
+  <data name="nav_rooms" xml:space="preserve"><value>Our Rooms</value></data>
+  <data name="nav_gallery" xml:space="preserve"><value>Gallery</value></data>
+  <data name="nav_about" xml:space="preserve"><value>About Us</value></data>
+  <data name="nav_contact" xml:space="preserve"><value>Contact</value></data>
+  <data name="footer_call" xml:space="preserve"><value>Call Now</value></data>
+  <data name="footer_location" xml:space="preserve"><value>View Location</value></data>
+
+  <data name="idx_title" xml:space="preserve"><value>Ölüdeniz Boutique Hotel</value></data>
+  <data name="idx_meta" xml:space="preserve"><value>Sunmed Lodge offers a peaceful boutique hotel stay with garden setting, serene atmosphere, and comfortable rooms in Ölüdeniz, Fethiye.</value></data>
+  <data name="idx_hero_eyebrow" xml:space="preserve"><value>Ölüdeniz / Fethiye / Muğla</value></data>
+  <data name="idx_hero_h1" xml:space="preserve"><value>A Peaceful &amp; Joyful Stay in the Heart of Ölüdeniz</value></data>
+  <data name="idx_hero_copy" xml:space="preserve"><value>Sunmed Lodge offers a peaceful holiday experience with its nature-inspired atmosphere, comfortable rooms, and close proximity to Ölüdeniz.</value></data>
+  <data name="idx_hero_whatsapp" xml:space="preserve"><value>Contact via WhatsApp</value></data>
+  <data name="idx_hero_map" xml:space="preserve"><value>View Location</value></data>
+
+  <data name="idx_intro_eyebrow" xml:space="preserve"><value>Sunmed Lodge</value></data>
+  <data name="idx_intro_h2" xml:space="preserve"><value>A simple and warm boutique hotel experience in a garden setting.</value></data>
+  <data name="idx_intro_p1" xml:space="preserve"><value>Sunmed Lodge is a small boutique hotel with 14 rooms, close to Ölüdeniz's vibrant holiday atmosphere yet serene within its own grounds. It welcomes guests with clean rooms, a peaceful garden, free breakfast, and warm hospitality.</value></data>
+  <data name="idx_intro_p2" xml:space="preserve"><value>It offers a simple, comfortable, Mediterranean-style stay for guests who want to explore the Fethiye area, easily reach the beach, and return to a peaceful retreat at the end of the day.</value></data>
+
+  <data name="idx_am_eyebrow" xml:space="preserve"><value>✦ Highlights ✦</value></data>
+  <data name="idx_am_h2" xml:space="preserve"><value>Details that make your holiday easier</value></data>
+  <data name="idx_am_lead" xml:space="preserve"><value>In our small boutique retreat meeting the turquoise blue of Ölüdeniz, everything you need for a comfortable stay awaits you.</value></data>
+  <data name="idx_am1_title" xml:space="preserve"><value>Free Breakfast</value></data>
+  <data name="idx_am1_desc" xml:space="preserve"><value>A calm and delicious start to the day in the garden atmosphere.</value></data>
+  <data name="idx_am2_title" xml:space="preserve"><value>Free Wi-Fi</value></data>
+  <data name="idx_am2_desc" xml:space="preserve"><value>Uninterrupted connectivity in rooms and common areas.</value></data>
+  <data name="idx_am3_title" xml:space="preserve"><value>Free Parking</value></data>
+  <data name="idx_am3_desc" xml:space="preserve"><value>Secure parking area for guests arriving by car.</value></data>
+  <data name="idx_am4_title" xml:space="preserve"><value>Air Conditioning</value></data>
+  <data name="idx_am4_desc" xml:space="preserve"><value>Cool and fresh room comfort during hot Mediterranean summers.</value></data>
+  <data name="idx_am5_title" xml:space="preserve"><value>Peaceful Garden</value></data>
+  <data name="idx_am5_desc" xml:space="preserve"><value>A shaded green outdoor space to relax throughout the day.</value></data>
+  <data name="idx_am6_title" xml:space="preserve"><value>24-Hour Reception</value></data>
+  <data name="idx_am6_desc" xml:space="preserve"><value>Our friendly team available whenever you need assistance.</value></data>
+
+  <data name="idx_rooms_eyebrow" xml:space="preserve"><value>Our Rooms</value></data>
+  <data name="idx_rooms_h2" xml:space="preserve"><value>Bungalow and deluxe triple room options.</value></data>
+  <data name="idx_rooms_copy" xml:space="preserve"><value>For a quiet retreat for two or a comfortable holiday for three, explore our rooms featuring air conditioning, minibar, private bathroom, Wi-Fi, and TV/Netflix.</value></data>
+  <data name="idx_bung_capacity" xml:space="preserve"><value>2 guests · 1 double bed</value></data>
+  <data name="idx_bung_title" xml:space="preserve"><value>Bungalow</value></data>
+  <data name="idx_bung_desc" xml:space="preserve"><value>A delightful room for couples seeking a simple and peaceful stay close to the garden atmosphere.</value></data>
+  <data name="idx_dlx_capacity" xml:space="preserve"><value>3 guests · 1 double + 1 single bed</value></data>
+  <data name="idx_dlx_title" xml:space="preserve"><value>Deluxe Triple Room</value></data>
+  <data name="idx_dlx_desc" xml:space="preserve"><value>A spacious, comfortable, and practical accommodation for families or groups of friends.</value></data>
+  <data name="idx_rooms_link" xml:space="preserve"><value>View Details</value></data>
+
+  <data name="idx_gal_eyebrow" xml:space="preserve"><value>From the Gallery</value></data>
+  <data name="idx_gal_h2" xml:space="preserve"><value>A brief glimpse into the Sunmed Lodge atmosphere.</value></data>
+  <data name="idx_gal_link" xml:space="preserve"><value>View full gallery</value></data>
+
+  <data name="idx_cta_eyebrow" xml:space="preserve"><value>Booking Information</value></data>
+  <data name="idx_cta_h2" xml:space="preserve"><value>Would you like to learn more about Sunmed Lodge?</value></data>
+  <data name="idx_cta_copy" xml:space="preserve"><value>You can message us on WhatsApp or call us directly for room availability, pricing, and location details.</value></data>
+  <data name="idx_cta_whatsapp" xml:space="preserve"><value>Contact via WhatsApp</value></data>
+  <data name="idx_cta_call" xml:space="preserve"><value>Call Now</value></data>
+
+  <data name="rm_title" xml:space="preserve"><value>Our Rooms</value></data>
+  <data name="rm_meta" xml:space="preserve"><value>Sunmed Lodge rooms: Comfortable boutique hotel accommodation in Ölüdeniz with Bungalow and Deluxe Triple Room options.</value></data>
+  <data name="rm_eyebrow" xml:space="preserve"><value>Comfortable and Simple Rooms</value></data>
+  <data name="rm_h1" xml:space="preserve"><value>Our Rooms</value></data>
+  <data name="rm_copy" xml:space="preserve"><value>With two room options at Sunmed Lodge, you can find a clean, comfortable, and convenient place to stay for your Ölüdeniz holiday.</value></data>
+  <data name="rm_bung_capacity" xml:space="preserve"><value>2 guests · 1 double bed</value></data>
+  <data name="rm_bung_title" xml:space="preserve"><value>Bungalow</value></data>
+  <data name="rm_bung_desc" xml:space="preserve"><value>A calm, warm, and practical room for guests who want to feel closer to the garden boutique atmosphere. Ideal for couples and two-person stays.</value></data>
+  <data name="rm_dlx_capacity" xml:space="preserve"><value>3 guests · 1 double bed + 1 single bed</value></data>
+  <data name="rm_dlx_title" xml:space="preserve"><value>Deluxe Triple Room</value></data>
+  <data name="rm_dlx_desc" xml:space="preserve"><value>A comfortable option for families, groups of friends, or guests who prefer more space. Offers a spacious and convenient area to rest at the end of the day.</value></data>
+  <data name="rm_feat_ac" xml:space="preserve"><value>Air Conditioning</value></data>
+  <data name="rm_feat_mb" xml:space="preserve"><value>Minibar</value></data>
+  <data name="rm_feat_bath" xml:space="preserve"><value>Private Bathroom</value></data>
+  <data name="rm_feat_wifi" xml:space="preserve"><value>Free Wi-Fi</value></data>
+  <data name="rm_feat_tv" xml:space="preserve"><value>TV / Netflix</value></data>
+  <data name="rm_btn" xml:space="preserve"><value>Get Info via WhatsApp</value></data>
+  <data name="rm_close" xml:space="preserve"><value>Close</value></data>
+
+  <data name="ab_title" xml:space="preserve"><value>About Us</value></data>
+  <data name="ab_meta" xml:space="preserve"><value>About Sunmed Lodge: A clean, sincere, garden-surrounded, and peaceful 14-room boutique hotel in Ölüdeniz, Fethiye.</value></data>
+  <data name="ab_eyebrow" xml:space="preserve"><value>A small boutique hotel in Ölüdeniz</value></data>
+  <data name="ab_h1" xml:space="preserve"><value>About Us</value></data>
+  <data name="ab_copy" xml:space="preserve"><value>Sunmed Lodge is a warm Mediterranean boutique hotel for guests seeking clean, sincere, garden-surrounded, and peaceful accommodation.</value></data>
+  <data name="ab_story_eyebrow" xml:space="preserve"><value>Small, Sincere, Thoughtful</value></data>
+  <data name="ab_story_h2" xml:space="preserve"><value>Away from the noise, close to the rhythm of the holiday.</value></data>
+  <data name="ab_story_p1" xml:space="preserve"><value>With its small 14-room structure, Sunmed Lodge offers a more personal and comfortable experience away from the crowds of large hotels. We care that our guests feel settled, rest in clean and tidy rooms, and slow down the pace of the day in the garden.</value></data>
+  <data name="ab_story_p2" xml:space="preserve"><value>You can start the day calmly with a free breakfast, take short breaks at the café area during the day, and easily reach Ölüdeniz and the Fethiye area. Cleanliness, sincerity, and simple comfort are at the heart of the Sunmed Lodge experience.</value></data>
+  <data name="ab_pt1_title" xml:space="preserve"><value>Garden</value></data>
+  <data name="ab_pt1_desc" xml:space="preserve"><value>A peaceful outdoor space to relax, have coffee, and unwind from the day.</value></data>
+  <data name="ab_pt2_title" xml:space="preserve"><value>Breakfast</value></data>
+  <data name="ab_pt2_desc" xml:space="preserve"><value>A fresh and effortless start to holiday mornings.</value></data>
+  <data name="ab_pt3_title" xml:space="preserve"><value>Location</value></data>
+  <data name="ab_pt3_desc" xml:space="preserve"><value>A convenient spot with easy access to Ölüdeniz and Fethiye.</value></data>
+  <data name="ab_pt4_title" xml:space="preserve"><value>Cleanliness</value></data>
+  <data name="ab_pt4_desc" xml:space="preserve"><value>A tidy, thoughtful, and simple room atmosphere that makes you feel at home.</value></data>
+  <data name="ab_pt5_title" xml:space="preserve"><value>Warmth</value></data>
+  <data name="ab_pt5_desc" xml:space="preserve"><value>A warm welcome befitting a small boutique hotel.</value></data>
+  <data name="ab_pt6_title" xml:space="preserve"><value>Tranquility</value></data>
+  <data name="ab_pt6_desc" xml:space="preserve"><value>A peaceful Mediterranean-style holiday feeling with a garden.</value></data>
+
+  <data name="ct_title" xml:space="preserve"><value>Contact</value></data>
+  <data name="ct_meta" xml:space="preserve"><value>Sunmed Lodge contact: Reach the boutique hotel in Ölüdeniz, Fethiye via phone, WhatsApp, address, and Google Maps.</value></data>
+  <data name="ct_eyebrow" xml:space="preserve"><value>Get in Touch</value></data>
+  <data name="ct_h1" xml:space="preserve"><value>Contact</value></data>
+  <data name="ct_copy" xml:space="preserve"><value>You can use the links below to get information about Sunmed Lodge, inquire about room availability, or open our location on the map.</value></data>
+  <data name="ct_panel_h2" xml:space="preserve"><value>Call easily or message us via WhatsApp.</value></data>
+  <data name="ct_phone_label" xml:space="preserve"><value>Phone</value></data>
+  <data name="ct_wa_label" xml:space="preserve"><value>WhatsApp</value></data>
+  <data name="ct_wa_action" xml:space="preserve"><value>Send a message</value></data>
+  <data name="ct_addr_label" xml:space="preserve"><value>Address</value></data>
+  <data name="ct_btn_wa" xml:space="preserve"><value>Contact via WhatsApp</value></data>
+  <data name="ct_btn_call" xml:space="preserve"><value>Call Now</value></data>
+  <data name="ct_btn_map" xml:space="preserve"><value>View Location</value></data>
+
+  <data name="gl_title" xml:space="preserve"><value>Gallery</value></data>
+  <data name="gl_meta" xml:space="preserve"><value>Sunmed Lodge gallery: Photos from the garden, rooms, and Mediterranean atmosphere of the boutique hotel in Ölüdeniz, Fethiye.</value></data>
+  <data name="gl_eyebrow" xml:space="preserve"><value>Sunmed Lodge Atmosphere</value></data>
+  <data name="gl_h1" xml:space="preserve"><value>Gallery</value></data>
+  <data name="gl_copy" xml:space="preserve"><value>Selected photos from the garden, rooms, and the hotel's peaceful Mediterranean atmosphere.</value></data>
+  <data name="gl_close" xml:space="preserve"><value>Close</value></data>
+</root>

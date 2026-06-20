@@ -1,0 +1,170 @@
+@{
+    ViewData["Title"] = L["idx_title"].Value;
+    ViewData["Description"] = L["idx_meta"].Value;
+
+    var webHostEnvironment = Context.RequestServices.GetRequiredService<Microsoft.AspNetCore.Hosting.IWebHostEnvironment>();
+
+    string HeroImage(string name)
+    {
+        var extensions = new[] { "avif", "jpg", "jpeg", "webp", "png" };
+        foreach (var extension in extensions)
+        {
+            var relativePath = $"images/hero/{name}.{extension}";
+            var physicalPath = System.IO.Path.Combine(webHostEnvironment.WebRootPath, relativePath);
+            if (System.IO.File.Exists(physicalPath))
+                return $"/{relativePath.Replace("\\", "/")}";
+        }
+        return $"/images/hero/{name}.jpg";
+    }
+
+    var galleryRoot = System.IO.Path.Combine(webHostEnvironment.WebRootPath, "images", "gallery");
+    var galleryExtensions = new HashSet<string>(StringComparer.OrdinalIgnoreCase) { ".avif", ".jpg", ".jpeg", ".png", ".webp" };
+    var previewGalleryPhotos = System.IO.Directory.Exists(galleryRoot)
+        ? System.IO.Directory
+            .EnumerateFiles(galleryRoot)
+            .Where(file => galleryExtensions.Contains(System.IO.Path.GetExtension(file)))
+            .OrderBy(file => System.IO.Path.GetFileName(file))
+            .Select(file => $"/images/gallery/{System.IO.Path.GetFileName(file)}")
+            .Take(4)
+            .ToArray()
+        : Array.Empty<string>();
+}
+
+<section class="hero">
+    <div class="hero-media" aria-hidden="true">
+        <span class="hero-slide is-active" style="background-image: url('@HeroImage("hero1")');"></span>
+        <span class="hero-slide" style="background-image: url('@HeroImage("hero2")');"></span>
+        <span class="hero-slide" style="background-image: url('@HeroImage("hero3")');"></span>
+    </div>
+    <div class="container hero-content">
+        <p class="eyebrow">@L["idx_hero_eyebrow"]</p>
+        <h1>@L["idx_hero_h1"]</h1>
+        <p class="hero-copy">@L["idx_hero_copy"]</p>
+        <div class="button-row">
+            <a class="btn btn-primary" href="https://wa.me/90XXXXXXXXXX?text=Merhaba%2C%20Sunmed%20Lodge%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener">@L["idx_hero_whatsapp"]</a>
+            <a class="btn btn-light" href="https://maps.app.goo.gl/GqsjMxA7zf15hrpK8" target="_blank" rel="noopener">@L["idx_hero_map"]</a>
+        </div>
+    </div>
+</section>
+
+<section class="section intro-section">
+    <div class="container split">
+        <div>
+            <p class="eyebrow">@L["idx_intro_eyebrow"]</p>
+            <h2>@L["idx_intro_h2"]</h2>
+        </div>
+        <div class="copy-stack">
+            <p>@L["idx_intro_p1"]</p>
+            <p>@L["idx_intro_p2"]</p>
+        </div>
+    </div>
+</section>
+
+<section class="section amenities-band">
+    <div class="container">
+        <div class="section-heading">
+            <p class="eyebrow">@L["idx_am_eyebrow"]</p>
+            <h2>@L["idx_am_h2"]</h2>
+            <p class="amenities-lead">@L["idx_am_lead"]</p>
+        </div>
+        <div class="amenity-grid">
+            <div class="amenity-card">
+                <span class="amenity-icon">🍊</span>
+                <strong>@L["idx_am1_title"]</strong>
+                <span>@L["idx_am1_desc"]</span>
+            </div>
+            <div class="amenity-card">
+                <span class="amenity-icon">🌐</span>
+                <strong>@L["idx_am2_title"]</strong>
+                <span>@L["idx_am2_desc"]</span>
+            </div>
+            <div class="amenity-card">
+                <span class="amenity-icon">🚗</span>
+                <strong>@L["idx_am3_title"]</strong>
+                <span>@L["idx_am3_desc"]</span>
+            </div>
+            <div class="amenity-card">
+                <span class="amenity-icon">❄️</span>
+                <strong>@L["idx_am4_title"]</strong>
+                <span>@L["idx_am4_desc"]</span>
+            </div>
+            <div class="amenity-card">
+                <span class="amenity-icon">🌿</span>
+                <strong>@L["idx_am5_title"]</strong>
+                <span>@L["idx_am5_desc"]</span>
+            </div>
+            <div class="amenity-card">
+                <span class="amenity-icon">🔔</span>
+                <strong>@L["idx_am6_title"]</strong>
+                <span>@L["idx_am6_desc"]</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container split section-lead">
+        <div>
+            <p class="eyebrow">@L["idx_rooms_eyebrow"]</p>
+            <h2>@L["idx_rooms_h2"]</h2>
+        </div>
+        <p>@L["idx_rooms_copy"]</p>
+    </div>
+    <div class="container room-preview-grid">
+        <article class="feature-card room-card">
+            <figure class="card-image media-frame">
+                <img src="/images/rooms/bungalov1.jpg" alt="Sunmed Lodge Bungalov oda bahçe görünümü" onerror="this.style.display='none'" />
+            </figure>
+            <div class="card-body-soft">
+                <p class="room-capacity">@L["idx_bung_capacity"]</p>
+                <h3>@L["idx_bung_title"]</h3>
+                <p>@L["idx_bung_desc"]</p>
+                <a asp-controller="Home" asp-action="Rooms">@L["idx_rooms_link"]</a>
+            </div>
+        </article>
+        <article class="feature-card room-card">
+            <figure class="card-image media-frame">
+                <img src="/images/rooms/deluxe1.jpg" alt="Sunmed Lodge Deluxe Üç Kişilik Oda görünümü" onerror="this.style.display='none'" />
+            </figure>
+            <div class="card-body-soft">
+                <p class="room-capacity">@L["idx_dlx_capacity"]</p>
+                <h3>@L["idx_dlx_title"]</h3>
+                <p>@L["idx_dlx_desc"]</p>
+                <a asp-controller="Home" asp-action="Rooms">@L["idx_rooms_link"]</a>
+            </div>
+        </article>
+    </div>
+</section>
+
+<section class="section soft-section">
+    <div class="container split section-lead">
+        <div>
+            <p class="eyebrow">@L["idx_gal_eyebrow"]</p>
+            <h2>@L["idx_gal_h2"]</h2>
+        </div>
+        <a class="text-link" asp-controller="Home" asp-action="Gallery">@L["idx_gal_link"]</a>
+    </div>
+    <div class="container mini-gallery">
+        @for (var i = 0; i < previewGalleryPhotos.Length; i++)
+        {
+            var sizeClass = i == 1 ? " tall" : i == 3 ? " wide" : "";
+            <a class="gallery-tile media-frame@sizeClass" href="/Home/Gallery">
+                <img src="@previewGalleryPhotos[i]" alt="Sunmed Lodge galeri önizleme fotoğrafı @(i + 1)" onerror="this.style.display='none'" />
+            </a>
+        }
+    </div>
+</section>
+
+<section class="section cta-section">
+    <div class="container cta-panel">
+        <div>
+            <p class="eyebrow">@L["idx_cta_eyebrow"]</p>
+            <h2>@L["idx_cta_h2"]</h2>
+            <p>@L["idx_cta_copy"]</p>
+        </div>
+        <div class="button-row">
+            <a class="btn btn-primary" href="https://wa.me/90XXXXXXXXXX?text=Merhaba%2C%20Sunmed%20Lodge%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener">@L["idx_cta_whatsapp"]</a>
+            <a class="btn btn-light" href="tel:+90XXXXXXXXXX">@L["idx_cta_call"]</a>
+        </div>
+    </div>
+</section>

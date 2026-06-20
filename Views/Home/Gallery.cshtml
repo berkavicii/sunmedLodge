@@ -1,0 +1,57 @@
+@{
+    ViewData["Title"] = L["gl_title"].Value;
+    ViewData["Description"] = L["gl_meta"].Value;
+
+    var webHostEnvironment = Context.RequestServices.GetRequiredService<Microsoft.AspNetCore.Hosting.IWebHostEnvironment>();
+    var galleryRoot = System.IO.Path.Combine(webHostEnvironment.WebRootPath, "images", "gallery");
+    var allowedExtensions = new HashSet<string>(StringComparer.OrdinalIgnoreCase)
+    {
+        ".avif", ".jpg", ".jpeg", ".png", ".webp"
+    };
+
+    var galleryPhotos = System.IO.Directory.Exists(galleryRoot)
+        ? System.IO.Directory
+            .EnumerateFiles(galleryRoot)
+            .Where(file => allowedExtensions.Contains(System.IO.Path.GetExtension(file)))
+            .OrderBy(file => System.IO.Path.GetFileName(file))
+            .Select(file => $"/images/gallery/{System.IO.Path.GetFileName(file)}")
+            .ToArray()
+        : Array.Empty<string>();
+}
+
+<section class="page-hero compact-hero" id="gallery">
+    <div class="container">
+        <p class="eyebrow">@L["gl_eyebrow"]</p>
+        <h1>@L["gl_h1"]</h1>
+        <p>@L["gl_copy"]</p>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container masonry-gallery">
+        @for (var i = 0; i < galleryPhotos.Length; i++)
+        {
+            var number = i + 1;
+            var sizeClass = i % 7 == 0 ? " tall" : i % 5 == 0 ? " wide" : "";
+            <a class="gallery-photo@sizeClass" href="#gallery-@number">
+                <img src="@galleryPhotos[i]" alt="Sunmed Lodge galeri fotoğrafı @number" onerror="this.style.display='none'" />
+            </a>
+        }
+    </div>
+</section>
+
+@for (var i = 0; i < galleryPhotos.Length; i++)
+{
+    var number = i + 1;
+    var previous = i == 0 ? galleryPhotos.Length : i;
+    var next = i == galleryPhotos.Length - 1 ? 1 : number + 1;
+    <div class="lightbox" id="gallery-@number">
+        <a class="lightbox-backdrop" href="#gallery" aria-label="Galeriyi kapat"></a>
+        <div class="lightbox-dialog">
+            <a class="lightbox-close" href="#gallery" aria-label="Galeriyi kapat">@L["gl_close"]</a>
+            <a class="lightbox-arrow lightbox-prev" href="#gallery-@previous" aria-label="Önceki">‹</a>
+            <a class="lightbox-arrow lightbox-next" href="#gallery-@next" aria-label="Sonraki">›</a>
+            <img src="@galleryPhotos[i]" alt="Sunmed Lodge büyük galeri fotoğrafı @number" />
+        </div>
+    </div>
+}
