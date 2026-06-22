@@ -10,6 +10,7 @@
   <data name="nav_gallery" xml:space="preserve"><value>Galeri</value></data>
   <data name="nav_about" xml:space="preserve"><value>Hakkımızda</value></data>
   <data name="nav_contact" xml:space="preserve"><value>İletişim</value></data>
+  <data name="nav_menu" xml:space="preserve"><value>Menü</value></data>
   <data name="footer_call" xml:space="preserve"><value>Hemen Ara</value></data>
   <data name="footer_location" xml:space="preserve"><value>Konumu Gör</value></data>
 

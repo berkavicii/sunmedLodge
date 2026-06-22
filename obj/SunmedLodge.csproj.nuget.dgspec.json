@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\sunmedLodge\\SunmedLodge.csproj": {}
+    "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/SunmedLodge.csproj": {}
   },
   "projects": {
-    "D:\\sunmedLodge\\SunmedLodge.csproj": {
+    "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/SunmedLodge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sunmedLodge\\SunmedLodge.csproj",
+        "projectUniqueName": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/SunmedLodge.csproj",
         "projectName": "SunmedLodge",
-        "projectPath": "D:\\sunmedLodge\\SunmedLodge.csproj",
-        "packagesPath": "C:\\Users\\Berk\\.nuget\\packages\\",
-        "outputPath": "D:\\sunmedLodge\\obj\\",
+        "projectPath": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/SunmedLodge.csproj",
+        "packagesPath": "/Users/berkavci/.nuget/packages/",
+        "outputPath": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Berk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/berkavci/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -64,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

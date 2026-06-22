@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FHgMpRwmlpaoZcjaQruUjovrVM6IqNF1HEC+xzHm11w=",
+  "Hash": "RgKEfyn9Bprwbr4ehTeR9SaF4nCas8Ra0MlNCiBmwj4=",
   "Source": "SunmedLodge",
   "BasePath": "_content/SunmedLodge",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "SunmedLodge\\wwwroot",
+      "Name": "SunmedLodge/wwwroot",
       "Source": "SunmedLodge",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\sunmedLodge\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SunmedLodge.styles.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/obj/Debug/net8.0/scopedcss/bundle/SunmedLodge.styles.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\sunmedLodge\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "SunmedLodge.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\sunmedLodge\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SunmedLodge.styles.css"
+      "OriginalItemSpec": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/obj/Debug/net8.0/scopedcss/bundle/SunmedLodge.styles.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SunmedLodge.bundle.scp.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/obj/Debug/net8.0/scopedcss/projectbundle/SunmedLodge.bundle.scp.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\sunmedLodge\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "SunmedLodge.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\sunmedLodge\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SunmedLodge.bundle.scp.css"
+      "OriginalItemSpec": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/obj/Debug/net8.0/scopedcss/projectbundle/SunmedLodge.bundle.scp.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\css\\site.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/css/site.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\favicon.ico",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/favicon.ico",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -90,13 +90,32 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\.gitkeep",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/favicon.png",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
+      "BasePath": "_content/SunmedLodge",
+      "RelativePath": "favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.png"
+    },
+    {
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/.gitkeep",
+      "SourceId": "SunmedLodge",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/.gitkeep",
       "AssetKind": "All",
@@ -109,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\.gitkeep"
+      "OriginalItemSpec": "wwwroot/images/.gitkeep"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\about\\.gitkeep",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/about/.gitkeep",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/about/.gitkeep",
       "AssetKind": "All",
@@ -128,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\about\\.gitkeep"
+      "OriginalItemSpec": "wwwroot/images/about/.gitkeep"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\about\\about.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/about/about.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/about/about.jpg",
       "AssetKind": "All",
@@ -147,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\about\\about.jpg"
+      "OriginalItemSpec": "wwwroot/images/about/about.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\.gitkeep",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/.gitkeep",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/.gitkeep",
       "AssetKind": "All",
@@ -166,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\.gitkeep"
+      "OriginalItemSpec": "wwwroot/images/gallery/.gitkeep"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DJI_20260505140858_0010_D.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DJI_20260505140858_0010_D.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DJI_20260505140858_0010_D.jpg",
       "AssetKind": "All",
@@ -185,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DJI_20260505140858_0010_D.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DJI_20260505140858_0010_D.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DJI_20260505141409_0019_D.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DJI_20260505141409_0019_D.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DJI_20260505141409_0019_D.jpg",
       "AssetKind": "All",
@@ -204,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DJI_20260505141409_0019_D.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DJI_20260505141409_0019_D.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DJI_20260505141437_0021_D.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DJI_20260505141437_0021_D.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DJI_20260505141437_0021_D.jpg",
       "AssetKind": "All",
@@ -223,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DJI_20260505141437_0021_D.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DJI_20260505141437_0021_D.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DJI_20260505141614_0030_D.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DJI_20260505141614_0030_D.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DJI_20260505141614_0030_D.jpg",
       "AssetKind": "All",
@@ -242,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DJI_20260505141614_0030_D.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DJI_20260505141614_0030_D.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC06739.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DSC06739.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DSC06739.jpg",
       "AssetKind": "All",
@@ -261,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DSC06739.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DSC06739.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC06861.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DSC06861.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DSC06861.jpg",
       "AssetKind": "All",
@@ -280,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DSC06861.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DSC06861.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07030.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DSC07030.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DSC07030.jpg",
       "AssetKind": "All",
@@ -299,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DSC07030.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DSC07030.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07034 (1).jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DSC07034 (1).jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DSC07034 (1).jpg",
       "AssetKind": "All",
@@ -318,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DSC07034 (1).jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DSC07034 (1).jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07049.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DSC07049.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DSC07049.jpg",
       "AssetKind": "All",
@@ -337,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DSC07049.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DSC07049.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07091.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DSC07091.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DSC07091.jpg",
       "AssetKind": "All",
@@ -356,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DSC07091.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DSC07091.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07594.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DSC07594.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DSC07594.jpg",
       "AssetKind": "All",
@@ -375,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DSC07594.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DSC07594.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07631.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DSC07631.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DSC07631.jpg",
       "AssetKind": "All",
@@ -394,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DSC07631.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DSC07631.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07665.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DSC07665.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DSC07665.jpg",
       "AssetKind": "All",
@@ -413,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DSC07665.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DSC07665.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07672.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DSC07672.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DSC07672.jpg",
       "AssetKind": "All",
@@ -432,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DSC07672.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DSC07672.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\gallery\\DSC07690.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/gallery/DSC07690.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/gallery/DSC07690.jpg",
       "AssetKind": "All",
@@ -451,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gallery\\DSC07690.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery/DSC07690.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\hero\\.gitkeep",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/hero/.gitkeep",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/hero/.gitkeep",
       "AssetKind": "All",
@@ -470,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\hero\\.gitkeep"
+      "OriginalItemSpec": "wwwroot/images/hero/.gitkeep"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\hero\\hero1.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/hero/hero1.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/hero/hero1.jpg",
       "AssetKind": "All",
@@ -489,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\hero\\hero1.jpg"
+      "OriginalItemSpec": "wwwroot/images/hero/hero1.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\hero\\hero2.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/hero/hero2.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/hero/hero2.jpg",
       "AssetKind": "All",
@@ -508,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\hero\\hero2.jpg"
+      "OriginalItemSpec": "wwwroot/images/hero/hero2.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\hero\\hero3.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/hero/hero3.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/hero/hero3.jpg",
       "AssetKind": "All",
@@ -527,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\hero\\hero3.jpg"
+      "OriginalItemSpec": "wwwroot/images/hero/hero3.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\hero\\sunmedlogo-header.png",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/hero/sunmedlogo-header.png",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/hero/sunmedlogo-header.png",
       "AssetKind": "All",
@@ -546,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\hero\\sunmedlogo-header.png"
+      "OriginalItemSpec": "wwwroot/images/hero/sunmedlogo-header.png"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\hero\\sunmedlogo.png",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/hero/sunmedlogo.png",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/hero/sunmedlogo.png",
       "AssetKind": "All",
@@ -565,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\hero\\sunmedlogo.png"
+      "OriginalItemSpec": "wwwroot/images/hero/sunmedlogo.png"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\.gitkeep",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/rooms/.gitkeep",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/rooms/.gitkeep",
       "AssetKind": "All",
@@ -584,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\rooms\\.gitkeep"
+      "OriginalItemSpec": "wwwroot/images/rooms/.gitkeep"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\bungalov1.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/rooms/bungalov1.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/rooms/bungalov1.jpg",
       "AssetKind": "All",
@@ -603,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\rooms\\bungalov1.jpg"
+      "OriginalItemSpec": "wwwroot/images/rooms/bungalov1.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\bungalov2.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/rooms/bungalov2.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/rooms/bungalov2.jpg",
       "AssetKind": "All",
@@ -622,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\rooms\\bungalov2.jpg"
+      "OriginalItemSpec": "wwwroot/images/rooms/bungalov2.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\bungalov3.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/rooms/bungalov3.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/rooms/bungalov3.jpg",
       "AssetKind": "All",
@@ -641,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\rooms\\bungalov3.jpg"
+      "OriginalItemSpec": "wwwroot/images/rooms/bungalov3.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\bungalov4.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/rooms/bungalov4.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/rooms/bungalov4.jpg",
       "AssetKind": "All",
@@ -660,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\rooms\\bungalov4.jpg"
+      "OriginalItemSpec": "wwwroot/images/rooms/bungalov4.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\bungalov5.avif",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/rooms/bungalov5.avif",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/rooms/bungalov5.avif",
       "AssetKind": "All",
@@ -679,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\rooms\\bungalov5.avif"
+      "OriginalItemSpec": "wwwroot/images/rooms/bungalov5.avif"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\bungalov6.avif",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/rooms/bungalov6.avif",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/rooms/bungalov6.avif",
       "AssetKind": "All",
@@ -698,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\rooms\\bungalov6.avif"
+      "OriginalItemSpec": "wwwroot/images/rooms/bungalov6.avif"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\deluxe1.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/rooms/deluxe1.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/rooms/deluxe1.jpg",
       "AssetKind": "All",
@@ -717,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\rooms\\deluxe1.jpg"
+      "OriginalItemSpec": "wwwroot/images/rooms/deluxe1.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\deluxe2.jpg",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/rooms/deluxe2.jpg",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/rooms/deluxe2.jpg",
       "AssetKind": "All",
@@ -736,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\rooms\\deluxe2.jpg"
+      "OriginalItemSpec": "wwwroot/images/rooms/deluxe2.jpg"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\deluxe3.avif",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/rooms/deluxe3.avif",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/rooms/deluxe3.avif",
       "AssetKind": "All",
@@ -755,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\rooms\\deluxe3.avif"
+      "OriginalItemSpec": "wwwroot/images/rooms/deluxe3.avif"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\deluxe4.avif",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/rooms/deluxe4.avif",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/rooms/deluxe4.avif",
       "AssetKind": "All",
@@ -774,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\rooms\\deluxe4.avif"
+      "OriginalItemSpec": "wwwroot/images/rooms/deluxe4.avif"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\deluxe5.avif",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/rooms/deluxe5.avif",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/rooms/deluxe5.avif",
       "AssetKind": "All",
@@ -793,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\rooms\\deluxe5.avif"
+      "OriginalItemSpec": "wwwroot/images/rooms/deluxe5.avif"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\images\\rooms\\deluxe6.avif",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/images/rooms/deluxe6.avif",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "images/rooms/deluxe6.avif",
       "AssetKind": "All",
@@ -812,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\rooms\\deluxe6.avif"
+      "OriginalItemSpec": "wwwroot/images/rooms/deluxe6.avif"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\js\\site.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/js/site.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -831,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -850,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -869,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -888,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -907,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -926,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -945,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -964,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -983,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1002,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1021,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1040,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1059,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1078,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1097,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1116,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1135,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1154,13 +1173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1173,13 +1192,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1192,13 +1211,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1211,13 +1230,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1230,13 +1249,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1249,13 +1268,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1268,13 +1287,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1287,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1306,13 +1325,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1325,13 +1344,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1344,13 +1363,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1363,13 +1382,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1382,13 +1401,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1401,13 +1420,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1420,13 +1439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1439,13 +1458,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1458,13 +1477,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1477,13 +1496,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1496,13 +1515,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1515,13 +1534,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1534,13 +1553,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1553,13 +1572,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1572,13 +1591,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1591,13 +1610,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1610,13 +1629,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1629,13 +1648,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1648,13 +1667,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1667,13 +1686,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1686,13 +1705,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1705,13 +1724,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1724,13 +1743,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1743,13 +1762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1762,13 +1781,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1781,13 +1800,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1800,13 +1819,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1819,13 +1838,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1838,13 +1857,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1857,13 +1876,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1876,13 +1895,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1895,13 +1914,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "D:\\sunmedLodge\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "SunmedLodge",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sunmedLodge\\wwwroot\\",
+      "ContentRoot": "/Users/berkavci/Desktop/sunmedlodge/site/sunmedLodge/wwwroot/",
       "BasePath": "_content/SunmedLodge",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1914,7 +1933,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     }
   ]
 }

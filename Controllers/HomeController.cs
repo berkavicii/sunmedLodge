@@ -7,10 +7,12 @@ namespace SunmedLodge.Controllers;
 
 public class HomeController : Controller
 {
+    private readonly IWebHostEnvironment _environment;
     private readonly ILogger<HomeController> _logger;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(IWebHostEnvironment environment, ILogger<HomeController> logger)
     {
+        _environment = environment;
         _logger = logger;
     }
 
@@ -19,6 +21,19 @@ public class HomeController : Controller
     public IActionResult Gallery() => View();
     public IActionResult About() => View();
     public IActionResult Contact() => View();
+
+    public IActionResult Menu()
+    {
+        var filePath = Path.Combine(_environment.ContentRootPath, "menu", "menu.pdf");
+
+        if (!System.IO.File.Exists(filePath))
+        {
+            return NotFound();
+        }
+
+        Response.Headers["Content-Disposition"] = "inline; filename=\"sunmed-lodge-menu.pdf\"";
+        return PhysicalFile(filePath, "application/pdf", enableRangeProcessing: true);
+    }
 
     [HttpGet]
     public IActionResult SetLanguage(string culture, string returnUrl)
